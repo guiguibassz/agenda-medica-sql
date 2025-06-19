@@ -32,7 +32,6 @@ Projeto prático de modelagem de banco de dados em MySQL. O sistema simula o age
 
 Diagrama feito com o site [dbdiagram.io](https://dbdiagram.io):
 
-📷 ![Diagrama ER](./assets/diagrama_agenda_medica.png)
 
 ## 🚀 Como executar
 
